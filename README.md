@@ -42,3 +42,6 @@ Data Modeling
 
 # Use Case
 This dashboard is ideal for operations managers, business analysts, and marketing strategists at Blinkit looking to monitor performance trends, optimize product placement, and tailor outlet strategies based on customer and sales data.
+
+# Download PDF Dashboard 
+https://github.com/ZubairMohammed123/-Blinkit-Sales-Performance-Dashboard-Power-BI-/blob/main/blinkit%20dashboard%20Power%20BI%20(1).pdf
